@@ -16,4 +16,12 @@ public class CreateLeadsTest {
 	public void opportunitesTest() {
 		System.out.println("pooja made the changes");
 	}
+	public void pooja() {
+		System.out.println("pooja is created");
+
+	}
+	public void QuoteTest() {
+		System.out.println("A new quote has been created");
+	}
+	
 }
