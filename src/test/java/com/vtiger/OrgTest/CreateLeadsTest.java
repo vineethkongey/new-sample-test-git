@@ -12,4 +12,7 @@ public class CreateLeadsTest {
 	public void productTest() {
 		System.out.println("product is created");
 	}
+	public void pooja() {
+		System.out.println("pooja is created");
+	}
 }
